@@ -1,3 +1,6 @@
+Description:
+This project visualizes and compares the ball-by-ball scores of second innings in any live cricket match. It helps audiences track which team is ahead at any given point during the second innings by displaying a side-by-side comparison of scores at the same over or ball number. Ideal for fans and analysts who want deeper match insights beyond basic live scores.
+
 # New Project
 
 *Automatically synced with your [v0.dev](https://v0.dev) deployments*
